@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="100" fill="#090d16"/>
+  <circle cx="256" cy="256" r="210" stroke="#00f0ff" stroke-width="12" stroke-dasharray="24 12"/>
+  <circle cx="256" cy="256" r="180" fill="#0f172a" stroke="#1e293b" stroke-width="4"/>
+  <!-- Energy Blades / Crosshairs -->
+  <path d="M120 120 L392 392 M392 120 L120 392" stroke="#f59e0b" stroke-width="28" stroke-linecap="round"/>
+  <path d="M256 60 L256 452 M60 256 L452 256" stroke="#00f0ff" stroke-width="18" stroke-linecap="round"/>
+  <!-- Inner Shield Core -->
+  <polygon points="256,150 330,195 330,285 256,330 182,285 182,195" fill="#0284c7" stroke="#38bdf8" stroke-width="8"/>
+  <circle cx="256" cy="240" r="30" fill="#ffffff"/>
+</svg>

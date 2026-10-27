@@ -1,0 +1,6 @@
+{
+  "name": "HD Battle Arena",
+  "description": "High-octane top-down sci-fi survival arena shooter with fluid keyboard and touch controls, wave progression, tactical weapon upgrades, and synthesized audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
